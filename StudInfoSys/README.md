@@ -1,2 +1,2 @@
-# HL-voting
-Allow users to submit assertions and vote other users' assertions
+# StudInfoSys
+Java-based web app to maintain student information
