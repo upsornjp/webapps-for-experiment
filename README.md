@@ -2,7 +2,7 @@
 Web-based software for academia and experiment. 
 
 Reference: 
-<a href="https://cs.gmu.edu/~uprapham/experiment/faultSeeding.html">Web Mutation Testing Experimental Guidelines</a>
+<a href="https://cs.gmu.edu/~uprapham/experiment/faultSeeding.html">Web Mutation Testing Experimental Guidelines</a> <br/>
 <a href="https://cs.gmu.edu/~offutt/documents/theses/UpsornPraphamontripong-Dissertation.pdf">Upsorn's dissertation</a>
 
 <h2 id="license"><a name="license"></a>License</h2>
