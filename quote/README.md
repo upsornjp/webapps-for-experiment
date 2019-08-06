@@ -1,2 +1,2 @@
-# HL-voting
-Allow users to submit assertions and vote other users' assertions
+# quote
+Java-based web app that allows users to search for quotes using keywords
